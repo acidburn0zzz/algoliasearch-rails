@@ -67,7 +67,7 @@ GEM
     highline (1.7.8)
     httpclient (2.8.3)
     i18n (0.8.1)
-    json (1.8.6)
+    json (2.3.0)
     kaminari (1.0.1)
       activesupport (>= 4.1.0)
       kaminari-actionview (= 1.0.1)
@@ -177,7 +177,7 @@ DEPENDENCIES
   activerecord-jdbcsqlite3-adapter
   algoliasearch (~> 1.12.4)
   jdbc-sqlite3
-  json (~> 1.5, >= 1.5.1)
+  json (~> 2.3)
   kaminari
   rails (>= 3.2.0)
   rake (~> 10.1.0)
